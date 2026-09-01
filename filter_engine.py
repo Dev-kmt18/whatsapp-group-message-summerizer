@@ -305,6 +305,22 @@ class MessageFilterEngine:
             ""
         ]
 
+        # Check if notice/event is TODAY or TOMORROW (Red Urgent Alert)
+        lower_content = content.lower()
+        is_today = any(w in lower_content for w in ["today", "aaj", "aaj hi", "tonight", "3:30 pm onwards"])
+        is_tomorrow = any(w in lower_content for w in ["tomorrow", "kal", "kal hi"])
+
+        if is_today:
+            lines.append("🚨 *URGENT ALERT: HAPPENING TODAY!* 🚨")
+            if deadline:
+                lines.append(f"🔴 *Timing:* {deadline}")
+            lines.append("")
+        elif is_tomorrow:
+            lines.append("⚠️ *URGENT ALERT: SCHEDULED FOR TOMORROW!* ⚠️")
+            if deadline:
+                lines.append(f"🔴 *Timing:* {deadline}")
+            lines.append("")
+
         # Put Summary on TOP
         ai_summary = self.generate_ai_summary(content)
         if ai_summary:
@@ -316,6 +332,9 @@ class MessageFilterEngine:
             if parsed.get("action_required"):
                 lines.append("• ⚠️ *Action Required:* Please review instructions / complete required steps.")
 
+        # Document / File detection
+        docs = re.findall(r'[\w,\s-]+\.(?:pdf|pptx|docx|ppt)', content, re.IGNORECASE)
+
         # Metadata
         lines.extend([
             "",
@@ -325,7 +344,9 @@ class MessageFilterEngine:
             f"🕒 *Time:* {timestamp}",
             f"📌 *Category:* {icon} {category}"
         ])
-        if deadline:
+        if docs:
+            lines.append(f"📁 *Attached File:* {docs[0].strip()}")
+        if deadline and not (is_today or is_tomorrow):
             lines.append(f"⏰ *Timing/Deadline:* {deadline}")
 
         # Extract links
