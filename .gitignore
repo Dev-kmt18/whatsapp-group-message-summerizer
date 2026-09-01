@@ -1,0 +1,23 @@
+# Environment & Secrets
+.env
+.env.local
+
+# WhatsApp Session Data (Keep private)
+whatsapp_user_data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache & virtualenv
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Logs & temp media
+*.log
+*.png
+*.jpg
+scratch/
+output.log

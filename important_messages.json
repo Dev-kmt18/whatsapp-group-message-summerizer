@@ -1,0 +1,1204 @@
+[
+  {
+    "hash": "b6b3611cb3c00ce13cce55aa7e8351b6713bbd00ef67d53f735479fbafe5ea79",
+    "chat_name": "INDUS HOSTEL BATCH 2026",
+    "sender": "+91 90868 63620",
+    "timestamp": "7:08 pm, 28/8/2026",
+    "content": "Dear students\n\nIt has been observed that someone with a fake dp and saying he is an NIT student has been calling students to financially help him as he is in deep trouble, As such you are advised to ignore such calls and report the same to your warden , hall assistant for information and necessary action, please share with your friends and colleagues, \n\nRegards\n\nDr Shashikant ADSW",
+    "category": "ANNOUNCEMENT",
+    "tags": [],
+    "score": 1.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "Dear students",
+      "key_details": "Dear students It has been observed that someone with a fake dp and saying he is an NIT student has been calling students to financially help him as he is in deep trouble, As such you are advised to...",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "4c4163f2e4df382beb7ad97d2bec98e5aac4416928e337da141a97e8d2f205d7",
+    "chat_name": "INDUS HOSTEL BATCH 2026",
+    "sender": "+91 77808 04221",
+    "timestamp": "6:46 pm, 30/8/2026",
+    "content": "Mess Entry Notice\n\nAll students are hereby informed to kindly complete their entry in the mess as soon as possible.\n\nPending Enrollment Numbers:\n\n2026B Civil 046\n\n2026B Civil 066\n\n2026B Civil 143\n\n2026B Civil 148\n\n2026B Mech 07\n\n2026B Mech 017\n\n2026B Mech 046\n\n2026B Ece 029\n\n2026B Ece 051\n\n2026B Ece 054\n\n2026B Ece 085\n\n2026B Ele 020\n\n2026B Ele 037\n\n2026B Ele 048\n\n2026B Ele 053\n\n2026B Ele 062\n\n2026B Ele 063\n\n2026B Ele 073\n\n2026B Ele 083\n\n2026B Ele 086\n\n2026B ite 079\n\n2026B ite 089\n\n2026B ite 0107\n\n2026B ite 0110\n\n2026B cse 033\n\n2026B cse 053\n\n2026B cse 059\n\n2026B cse 065\n\n2026B che 017\n\n2026B che 041\n\n2026B che 047",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "notice"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "Mess Entry Notice",
+      "key_details": "Mess Entry Notice All students are hereby informed to kindly complete their entry in the mess as soon as possible.",
+      "deadline_or_time": null,
+      "action_required": true
+    }
+  },
+  {
+    "hash": "1ae9ecd5ad8e03d26a55e9559b5b32f6eb35abd23cef5d0864d023550d3a5d37",
+    "chat_name": "Nit srinagar batch 2026-30",
+    "sender": "+91 96539 40718",
+    "timestamp": "8:50 am, 31/8/2026",
+    "content": "Ece ki class kha lagegi",
+    "category": "TIMETABLE",
+    "tags": [
+      "class"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Ece ki class kha lagegi",
+      "key_details": "Ece ki class kha lagegi",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "624485124b911d316ab0620a68426a71e00d088c88c47ca4046c570d22a94c0c",
+    "chat_name": "Nit srinagar batch 2026-30",
+    "sender": "+91 94628 00167",
+    "timestamp": "8:52 am, 31/8/2026",
+    "content": "Workshop se sidha aoo",
+    "category": "EVENT",
+    "tags": [
+      "workshop"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "EVENT_PROGRAM",
+      "is_important": true,
+      "title": "Workshop se sidha aoo",
+      "key_details": "Workshop se sidha aoo",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "bbb06af9867226872281c4872369ef1d72ba9b31445cc07a429c0fd26e917cc7",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "+91 96539 40718",
+    "timestamp": "8:50 am, 31/8/2026",
+    "content": "Ece ki class kha lagegi",
+    "category": "TIMETABLE",
+    "tags": [
+      "class"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Ece ki class kha lagegi",
+      "key_details": "Ece ki class kha lagegi",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "2c4c0a9d63fbd5866f48e0ba680e66b69b3cbb6b125fcd2bae1cc5e8cf381c8d",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "+91 94628 00167",
+    "timestamp": "8:52 am, 31/8/2026",
+    "content": "Workshop se sidha aoo",
+    "category": "EVENT",
+    "tags": [
+      "workshop"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "EVENT_PROGRAM",
+      "is_important": true,
+      "title": "Workshop se sidha aoo",
+      "key_details": "Workshop se sidha aoo",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "8d18064b7015dfaa65ef03c0a0d0042c21a402e780ad431f0767c7753cc0a225",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:36 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: TIMETABLE\n\n From Group: Royal Mechainal (26-30)\n\n Sender: +91 96539 40718\n\n Time: 8:50 am, 31/8/2026\n\n\n\n Summary: Ece ki class kha lagegi\n\n\n\n Original Message:\n\nEce ki class kha lagegi",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "class",
+      "important",
+      "timetable",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 6.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: TIMETABLE",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "4791fa23724eacf1bc3e35dd37f675db5d8fea323701cc8ec221c7f535b9bd89",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:36 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: EVENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: +91 94628 00167\n\n Time: 8:52 am, 31/8/2026\n\n\n\n Summary: Workshop se sidha aoo\n\n\n\n Original Message:\n\nWorkshop se sidha aoo",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "event",
+      "alert",
+      "important",
+      "workshop",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 6.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: EVENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "a526a60c94971df5f88f45103d4662fb72e1d3ce8e194c30e84277b9b95f1f87",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:37 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:36 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: TIMETABLE\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: TIMETABLE\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: +91 96539 40718\n\n\n\n Time: 8:50 am, 31/8/2026\n\n\n\n\n\n\n\n Summary: Ece ki class kha lagegi\n\n\n\n\n\n\n\n Original Message:\n\n\n\nEce ki class kha lagegi",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "class",
+      "announcement",
+      "important",
+      "timetable",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "fb1d6974f8eb98c7d0676689041de90e104cd6f8a29ad446ed1bd0c242c8bf0c",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:37 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:36 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: EVENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: EVENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: +91 94628 00167\n\n\n\n Time: 8:52 am, 31/8/2026\n\n\n\n\n\n\n\n Summary: Workshop se sidha aoo\n\n\n\n\n\n\n\n Original Message:\n\n\n\nWorkshop se sidha aoo",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "event",
+      "alert",
+      "announcement",
+      "important",
+      "workshop",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "53b12bfea544ac76f99dad2a77c91d816d471d0ac0ee7087a9e57071d7641a89",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:38 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:37 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:36 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: TIMETABLE\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: TIMETABLE\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: +91 96539 40718\n\n\n\n\n\n\n\n Time: 8:50 am, 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: Ece ki class kha lagegi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nEce ki class kha lagegi",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "class",
+      "announcement",
+      "important",
+      "timetable",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "85a5818d60012a0145bd5a85498c24b51e617ff460ba358598e7757fb55d12a3",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:38 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:37 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:36 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: EVENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: EVENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: +91 94628 00167\n\n\n\n\n\n\n\n Time: 8:52 am, 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: Workshop se sidha aoo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nWorkshop se sidha aoo",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "event",
+      "alert",
+      "announcement",
+      "important",
+      "workshop",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "fad44eb2a17617ac14e6f8751ec01f4265f178d432018ea19a0de113f5d62a9a",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:39 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:38 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:37 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:36 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: TIMETABLE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTICE A…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "timetable",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "7c4a0f14a549947784ee8172e6063deaab2044bf5c380b39eb4d6b29e6fa8fdf",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:39 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:38 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:37 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:36 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: EVENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTICE ALERT…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "event",
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "4726abbbfda230790b1a847942b9b6c3b5b599a0ff68f52b056b8dbda76486ac",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:40 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:39 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:38 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:37 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "fd67e71e1ce1a2bf990b46295af6e8e4ddfae3d8e4fecdabfef59f7e3d803db4",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:41 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:40 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:39 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:38 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "deaf087d4ea2f4677555ccba919cf6a95ed9f3346e73ccac9f6380be17804580",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:42 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:41 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:40 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:39 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "21197c2ca1e6a7c261afbf9cc1756ff0538347ceaa9d728ebe99c0ba3e7303ab",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:43 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:42 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:41 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:40 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f1cd6e5a55890b4184b56ae245ea601fba451a19acaaba75ecef295e7493c934",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:44 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:43 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:42 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:41 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "78bbaddf64a1526cb8c394ff1c8dee555bfbf67d87a2301403f6edbe016c8c33",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "10:45 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:44 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:43 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:42 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "decac0d89f5dfec4ad183f82ee0f6c153214b4f4d683fc8c27882ee3381c3bdb",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:00 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 10:45 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:44 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:43 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f9643d75049494a09ec31af76b056ac83def99aad2d8ba59df32a33811cb8520",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:01 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:00 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 10:45 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:44 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "87a68a69b337e334e0fdb81c674df388083886c1705b7018bca3afcfed33782e",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:02 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:01 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:00 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 10:45 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "a84966bacfe88c9323cf24c3152f3db54b4692f0854b0e40c41dca005c6b150f",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:03 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:02 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:01 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:00 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "691cccd9cc586732b44107ff054aaee4bee2624d4698bf2e1ba71751b3e6971e",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:04 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:03 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:02 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:01 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "ab7f2e76db8a4fd339191bbaa9384dbd185af4efa8336735af51b8d66daa2b2e",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:04 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:04 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:03 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:02 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "00b8a6fe88890911582f0279495612b37a08fb893dbf48c118891bbbb8369bdf",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:05 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:04 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:04 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:03 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "65606e57294389c77989379e4c54795154e81ddafeb511100a2691463e9e0297",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:06 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:05 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:04 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:04 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f9831e32cdf64b66590925f13c13ee8fa2024251fe02aa53d0dd7f8c972ec090",
+    "chat_name": "Royal Mechainal (26-30)",
+    "sender": "Akshuu",
+    "timestamp": "11:07 pm, 31/8/2026",
+    "content": "IMPORTANT NOTICE ALERT\n\n\n\n Category: ANNOUNCEMENT\n\n From Group: Royal Mechainal (26-30)\n\n Sender: Akshuu\n\n Time: 11:06 pm, 31/8/2026\n\n Deadline/Time: 31/8/2026\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n Original Message:\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n Sender: Akshuu\n\n\n\n Time: 11:05 pm, 31/8/2026\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n Original Message:\n\n\n\nIMPORTANT NOTICE ALERT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n From Group: Royal Mechainal (26-30)\n\n\n\n\n\n\n\n Sender: Akshuu\n\n\n\n\n\n\n\n Time: 11:04 pm, 31/8/2026\n\n\n\n\n\n\n\n Deadline/Time: 31/8/2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Summary: IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Original Message:\n\n\n\n\n\n\n\nIMPORTANT NOTIC…",
+    "category": "ANNOUNCEMENT",
+    "tags": [
+      "alert",
+      "announcement",
+      "important",
+      "deadline",
+      "notice",
+      "contains_datetime"
+    ],
+    "score": 10.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "ANNOUNCEMENT",
+      "is_important": true,
+      "title": "IMPORTANT NOTICE ALERT",
+      "key_details": "IMPORTANT NOTICE ALERT Category: ANNOUNCEMENT",
+      "deadline_or_time": "31/8/2026",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f08b09f88b4f026dcd4d7fd3dafe0d2f324b0d552dc4ff83cd7c33d6ec5bbf36",
+    "chat_name": "info Mechainal 2026",
+    "sender": "+91 96539 40718",
+    "timestamp": "8:50 am, 31/8/2026",
+    "content": "Ece ki class kha lagegi",
+    "category": "TIMETABLE",
+    "tags": [
+      "class"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Ece ki class kha lagegi",
+      "key_details": "Ece ki class kha lagegi",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "b8fb8e4cd28b85d5dd6041fab9e3eb06898a3f4a9e52c51707c34ff79512da46",
+    "chat_name": "info Mechainal 2026",
+    "sender": "+91 94628 00167",
+    "timestamp": "8:52 am, 31/8/2026",
+    "content": "Workshop se sidha aoo",
+    "category": "EVENT",
+    "tags": [
+      "workshop"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "EVENT_PROGRAM",
+      "is_important": true,
+      "title": "Workshop se sidha aoo",
+      "key_details": "Workshop se sidha aoo",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "8318b3077994d2c1e4ddc78abd5a3f46df64aff680da5401673010676ca29964",
+    "chat_name": "Engineering Drawing",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "joined from the community",
+    "category": "STUDY_MATERIAL",
+    "tags": [],
+    "score": 1.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "joined from the community",
+      "key_details": "joined from the community",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "ad05b01bebb22343c5ac0d54e5194d7b7e1b481289b316363b349c8a1bacd869",
+    "chat_name": "Engineering Drawing",
+    "sender": "+91 70063 17404",
+    "timestamp": "2:47 pm, 1/9/2026",
+    "content": "Good afternoon everyone\n\nSir will share the pdf when all the relevant topics covered",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Good afternoon everyone",
+      "key_details": "Good afternoon everyone Sir will share the pdf when all the relevant topics covered",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "fdb3f1a9bf53c011c801ec02ab3f7d3cb47232f5b41f8f23ef9d959ebdadf510",
+    "chat_name": "info Mechanical 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "1. Engineering Drawing (CVT-101)_Lectures.pptx • 242 pages",
+    "category": "TIMETABLE",
+    "tags": [],
+    "score": 1.25,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "1. Engineering Drawing (CVT-101)_Lectures.pptx • 242 pages",
+      "key_details": "1. Engineering Drawing (CVT-101)_Lectures.pptx • 242 pages",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "84e0203d2201cc85107e2d1a537f512407d626ec351c7167de493733cbb0277c",
+    "chat_name": "info Mechanical 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Voltage Division in Series circuit of Resistors-.pdf • 4 pages",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Voltage Division in Series circuit of Resistors-.pdf • 4 ...",
+      "key_details": "Voltage Division in Series circuit of Resistors-.pdf • 4 pages",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "4824bbb2667370c631cf61b23cb5cd0f7387979987afc81c390052f8676add69",
+    "chat_name": "info Mechanical 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "*Congratulations Yuvraj Soni*     *Your scholarship slot for Artificial Intelligence has been successfully confirmed. *      *You will now gain access to real-time projects, AI tools, and dedicated mentorship to strengthen your career journey.*         _Students who didn't enrolled yet can fill out the form now and complete Registration ASAP._         _*Application Form:*_     https://forms.gle/G24eTTHvo3MzrGVu7",
+    "category": "TIMETABLE",
+    "tags": [
+      "registration",
+      "slot",
+      "contains_link"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Congratulations Yuvraj Soni*     *Your scholarship slot f...",
+      "key_details": "*Congratulations Yuvraj Soni*     *Your scholarship slot for Artificial Intelligence has been successfully confirmed. *      *You will now gain access to real-time projects, AI tools, and dedicated...",
+      "deadline_or_time": null,
+      "action_required": true
+    }
+  },
+  {
+    "hash": "1d9d0d237b081433cca53fc8986955b36e15ef5c471649f0b4e7d3d9f82ee407",
+    "chat_name": "info Mechanical 2026",
+    "sender": "+91 91860 38249",
+    "timestamp": "10:43 am, 31/8/2026",
+    "content": "The students can use various mental health counselling services of GoI and the institute during distress: \n\n\n\nInstitute mental health counselling services: Institute counsellor Mr. Aamir Bashir. The counsellor is available in the medical unit, on a call and during frequent hostel visits.\nContact to book an appointment: Mob. 9541050528, counselling.cell@nitsri.ac.in.   \n\n\n\n\n\nMental health counselling services by GoI: TELE MANAS APP (https://play.google.com/store/apps/details?id=org.telemanas.citizen&hl=en_GB).\n\n\n\n\nMental health counselling services by GoI: TELE MANAS Helpline numbers by GoI (Helpline numbers:-14416/18008914416) to provide mental health counselling to all. (https://telemanas.mohfw.gov.in/home)\n\n\n\n\n\n\nThe Counselling Cell is here to provide a safe, s…",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "unit",
+      "book",
+      "contains_link"
+    ],
+    "score": 4.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "The students can use various mental health counselling se...",
+      "key_details": "The students can use various mental health counselling services of GoI and the institute during distress: Institute mental health counselling services: Institute counsellor Mr. Aamir Bashir. The co...",
+      "deadline_or_time": null,
+      "action_required": false
+    }
+  },
+  {
+    "hash": "65643f0e128fbad0a5b1835df6f98e02d6995624467bf8b7994eba7de926cab1",
+    "chat_name": "info Mechanical 2026",
+    "sender": "+91 70063 17404",
+    "timestamp": "10:26 pm, 31/8/2026",
+    "content": "Tomorrow english class is not conducted due to some academics commitments",
+    "category": "TIMETABLE",
+    "tags": [
+      "class"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Tomorrow english class is not conducted due to some acade...",
+      "key_details": "Tomorrow english class is not conducted due to some academics commitments",
+      "deadline_or_time": null,
+      "action_required": true
+    }
+  },
+  {
+    "hash": "3153474b96ebd1c6bb7f2b0217f9c5d22c56ab48f22da905f7785963cfb370a4",
+    "chat_name": "Info Mechanical 2026",
+    "sender": "+91 70063 17404",
+    "timestamp": "10:26 pm, 31/8/2026",
+    "content": "Tomorrow english class is not conducted due to some academics commitments",
+    "category": "TIMETABLE",
+    "tags": [
+      "class"
+    ],
+    "score": 2.5,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "Tomorrow english class is not conducted due to some acade...",
+      "key_details": "Tomorrow english class is not conducted due to some academics commitments",
+      "deadline_or_time": null,
+      "action_required": true
+    }
+  },
+  {
+    "hash": "69672fc6cab08675673e7471314e77ae0e1c92e40efd81807ac3863fd79093b6",
+    "chat_name": "Royal Mechanical (26-30)",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "𝚉𝚊𝚌𝚔\n+91 7602 510 055\nP\nPolymers-1.pptx\n35 pages•PPTX•2 MB\n3:53 pm",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "contains_datetime"
+    ],
+    "score": 1.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "𝚉𝚊𝚌𝚔",
+      "key_details": "𝚉𝚊𝚌𝚔 +91 7602 510 055",
+      "deadline_or_time": "3:53 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "de7a6c301e66d6ce2987c3b59e47e03965bb18b5fe77a5fab1c300a7993c2319",
+    "chat_name": "Royal Mechanical (26-30)",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "𝚉𝚊𝚌𝚔\n+91 7602 510 055\nP\n1. Engineering Drawing (CVT-101)_Lectures.pptx\n242 pages•PPTX•10 MB\n3:54 pm",
+    "category": "TIMETABLE",
+    "tags": [
+      "contains_datetime"
+    ],
+    "score": 1.25,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "𝚉𝚊𝚌𝚔",
+      "key_details": "𝚉𝚊𝚌𝚔 +91 7602 510 055",
+      "deadline_or_time": "3:54 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "befcb7788009d18f54a8eb0290e8e2c41be9f40ab674d7a2e4500e253c001fa4",
+    "chat_name": "BEE_Mech_Autumn 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Dr. M. M. Jaganath Ph.D.\n+91 90034 03418\nPDF\n1.4.pdf\n4 pages•PDF•4 MB\n11:40 am",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Dr. M. M. Jaganath Ph.D.",
+      "key_details": "Dr. M. M. Jaganath Ph.D. +91 90034 03418",
+      "deadline_or_time": "11:40 am",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "269961387c3ec5366443e6c0e7e0dbe50fe6ca9d0da5164386b12f63e1d54b23",
+    "chat_name": "BEE_Mech_Autumn 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Dr. M. M. Jaganath Ph.D.\n+91 90034 03418\nPDF\n1.5.pdf\n3 pages•PDF•4 MB\n11:40 am",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Dr. M. M. Jaganath Ph.D.",
+      "key_details": "Dr. M. M. Jaganath Ph.D. +91 90034 03418",
+      "deadline_or_time": "11:40 am",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "6f87198a3aeba64e50de30d1b31195aa7fb1bcf85296efb325f04319261a0df9",
+    "chat_name": "BEE_Mech_Autumn 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Dr. M. M. Jaganath Ph.D.\n+91 90034 03418\nPDF\n1.6.pdf\n3 pages•PDF•4 MB\n11:40 am",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Dr. M. M. Jaganath Ph.D.",
+      "key_details": "Dr. M. M. Jaganath Ph.D. +91 90034 03418",
+      "deadline_or_time": "11:40 am",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f554d8ad37a36d8407a284eb71050692bd7364ce0428521bcb4d650e1accbd36",
+    "chat_name": "BEE_Mech_Autumn 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Dr. M. M. Jaganath Ph.D.\n+91 90034 03418\nPDF\n1.pdf\n5 pages•PDF•1,014 kB\n1:58 pm",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Dr. M. M. Jaganath Ph.D.",
+      "key_details": "Dr. M. M. Jaganath Ph.D. +91 90034 03418",
+      "deadline_or_time": "1:58 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "90a39f9be8abefb867ede43c0eaf0094a147da33fa9a49dde8a35666791b7a74",
+    "chat_name": "BEE_Mech_Autumn 2026",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Dr. M. M. Jaganath Ph.D.\n+91 90034 03418\nPDF\nVoltage Division in Series circuit of Resistors-.pdf\n4 pages•PDF•791 kB\n1:58 pm",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Dr. M. M. Jaganath Ph.D.",
+      "key_details": "Dr. M. M. Jaganath Ph.D. +91 90034 03418",
+      "deadline_or_time": "1:58 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "af617276ce50d41192aefe8a0e7cbe42b7dfbd435ef5c62e744d8e055657011b",
+    "chat_name": "Engineering Drawing",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "𝚉𝚊𝚌𝚔\n+91 7602 510 055\nP\nPolymers-1.pptx\n35 pages•PPTX•2 MB\n3:53 pm",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "contains_datetime"
+    ],
+    "score": 1.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "𝚉𝚊𝚌𝚔",
+      "key_details": "𝚉𝚊𝚌𝚔 +91 7602 510 055",
+      "deadline_or_time": "3:53 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "f9a9b4afc0aebdb573ab416d64cf1bae8824e501f2a9171bcc3a3602298ecd0a",
+    "chat_name": "Engineering Drawing",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "𝚉𝚊𝚌𝚔\n+91 7602 510 055\nP\n1. Engineering Drawing (CVT-101)_Lectures.pptx\n242 pages•PPTX•10 MB\n3:54 pm",
+    "category": "TIMETABLE",
+    "tags": [
+      "contains_datetime"
+    ],
+    "score": 1.25,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "TIME_TABLE",
+      "is_important": true,
+      "title": "𝚉𝚊𝚌𝚔",
+      "key_details": "𝚉𝚊𝚌𝚔 +91 7602 510 055",
+      "deadline_or_time": "3:54 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "3919a274f0f0828d14e78d0bd67be8f064b0671bf967b53e7114ac9ae68be9c6",
+    "chat_name": "Engineering Chemistry",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Zayn Vanii\n+91 788 943 1975\nForwarded\nPDF\nPolymers.pdf\n23 pages•PDF•1 MB\n11:55 pm",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Zayn Vanii",
+      "key_details": "Zayn Vanii +91 788 943 1975",
+      "deadline_or_time": "11:55 pm",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "fd260dcc759a259e2d0010884c220aab098b4c5d3b5828fe5306538b59c75630",
+    "chat_name": "Engineering Chemistry",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Zayn Vanii\n+91 788 943 1975\nForwarded\nPDF\nPolymers.pdf\n23 pages•PDF•1 MB\n11:39 am",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Zayn Vanii",
+      "key_details": "Zayn Vanii +91 788 943 1975",
+      "deadline_or_time": "11:39 am",
+      "action_required": false
+    }
+  },
+  {
+    "hash": "9e8746f94870eb4a355c45144daabbbed488c507c657fbac7d4b9ceb84c6f889",
+    "chat_name": "Engineering Chemistry",
+    "sender": "Group Member",
+    "timestamp": "Just Now",
+    "content": "Love  Kumar\n+91 63766 83960\nForwarded\nPDF\nPolymers.pdf\n23 pages•PDF•1 MB\n11:39 am",
+    "category": "STUDY_MATERIAL",
+    "tags": [
+      "pdf",
+      "contains_datetime"
+    ],
+    "score": 2.0,
+    "is_important": true,
+    "parsed_structured": {
+      "category": "STUDY_MATERIAL",
+      "is_important": true,
+      "title": "Love  Kumar",
+      "key_details": "Love  Kumar +91 63766 83960",
+      "deadline_or_time": "11:39 am",
+      "action_required": false
+    }
+  }
+]
