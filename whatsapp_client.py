@@ -260,12 +260,32 @@ class WhatsAppClient:
                 else:
                     text_content = await msg_el.inner_text()
 
-                # Also capture image description if available
-                img_el = await msg_el.query_selector("img[alt]")
+                # Also capture image description or OCR text from posters/flyers
+                img_el = await msg_el.query_selector("img[src*='blob:'], div[data-testid='image-thumb'], img[alt]")
                 if img_el:
                     img_alt = await img_el.get_attribute("alt") or ""
                     if img_alt and len(img_alt.strip()) > 5 and img_alt.strip() not in text_content:
                         text_content = f"{text_content}\n[Poster/Image: {img_alt.strip()}]"
+
+                    # Run OCR on image if bubble has little or no text
+                    if len(text_content.strip()) < 80:
+                        try:
+                            import tempfile
+                            box = await img_el.bounding_box()
+                            if box and box['width'] > 60 and box['height'] > 60:
+                                with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as tmp:
+                                    tmp_path = tmp.name
+                                await img_el.screenshot(path=tmp_path)
+                                from filter_engine import MessageFilterEngine
+                                ocr_text = MessageFilterEngine.extract_text_from_image(tmp_path)
+                                try:
+                                    os.remove(tmp_path)
+                                except Exception:
+                                    pass
+                                if ocr_text and len(ocr_text.strip()) > 10:
+                                    text_content = f"{text_content}\n[Poster Content / Club Details]:\n{ocr_text.strip()}".strip()
+                        except Exception:
+                            pass
 
                 if text_content and text_content.strip():
                     extracted.append({

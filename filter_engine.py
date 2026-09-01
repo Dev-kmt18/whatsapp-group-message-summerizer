@@ -248,6 +248,24 @@ class MessageFilterEngine:
             "parsed_structured": parsed
         }
 
+    @staticmethod
+    def extract_text_from_image(image_path: str) -> str:
+        """Extract all text, club names, timings, and details from poster/flyer image via Tesseract OCR."""
+        import subprocess
+        for tess_bin in ["/opt/homebrew/bin/tesseract", "/usr/local/bin/tesseract", "tesseract"]:
+            try:
+                res = subprocess.run(
+                    [tess_bin, image_path, "stdout", "--oem", "1", "-l", "eng"],
+                    capture_output=True,
+                    text=True,
+                    timeout=10
+                )
+                if res.returncode == 0 and res.stdout.strip():
+                    return res.stdout.strip()
+            except Exception:
+                continue
+        return ""
+
     def generate_ai_summary(self, text: str) -> str:
         """Call Groq API (openai/gpt-oss-120b) to generate high-quality bullet summary."""
         try:
