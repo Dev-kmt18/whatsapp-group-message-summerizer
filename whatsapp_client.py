@@ -5,6 +5,7 @@ session keepalive, and disconnect handling.
 """
 
 import asyncio
+import os
 import re
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -52,7 +53,7 @@ class WhatsAppClient:
         self.context = await self.playwright.chromium.launch_persistent_context(
             user_data_dir=self.user_data_dir,
             headless=self.headless,
-            viewport={"width": 1280, "height": 850},
+            viewport={"width": 1440, "height": 1050},
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
             args=args
         )
@@ -350,6 +351,62 @@ class WhatsAppClient:
 
         except Exception as e:
             print(f"[ERROR] Failed to send message to '{contact_name}': {e}", flush=True)
+            return False
+
+    async def send_whatsapp_file(self, contact_name: str, file_path: str, caption: str = "") -> bool:
+        """Send a document/PDF file with optional caption to a contact or group."""
+        if not self.page or not os.path.exists(file_path):
+            return False
+
+        try:
+            opened = await self.search_and_open_chat(contact_name)
+            if not opened:
+                return False
+
+            await asyncio.sleep(1.5)
+
+            # Locate file input element on page
+            file_input = await self.page.query_selector("input[type='file']")
+            if not file_input:
+                plus_btn = await self.page.query_selector("button[aria-label='Attach'], span[data-icon='plus'], span[data-icon='attach-menu-plus']")
+                if plus_btn:
+                    await plus_btn.click()
+                    await asyncio.sleep(0.8)
+                file_input = await self.page.query_selector("input[type='file']")
+
+            if not file_input:
+                print(f"[ERROR] Could not locate file input to attach '{file_path}'.", flush=True)
+                return False
+
+            abs_path = os.path.abspath(file_path)
+            await file_input.set_input_files(abs_path)
+            await asyncio.sleep(2.5)
+
+            # If caption provided, insert into media preview caption box
+            if caption:
+                caption_box = await self.page.query_selector("div[data-testid='media-caption-input-container'] div[contenteditable='true'], footer div[contenteditable='true']")
+                if caption_box:
+                    await caption_box.click()
+                    for i, line in enumerate(caption.split("\n")):
+                        if line:
+                            await self.page.keyboard.insert_text(line)
+                        if i < len(caption.split("\n")) - 1:
+                            await self.page.keyboard.press("Shift+Enter")
+                    await asyncio.sleep(0.5)
+
+            # Click green send button in document modal
+            send_btn = await self.page.query_selector("span[data-icon='send'], div[aria-label='Send'], button[aria-label='Send']")
+            if send_btn:
+                await send_btn.click(force=True)
+            else:
+                await self.page.keyboard.press("Enter")
+
+            await asyncio.sleep(4.0)
+            print(f"[SUCCESS] File '{os.path.basename(file_path)}' successfully sent to '{contact_name}'!", flush=True)
+            return True
+
+        except Exception as e:
+            print(f"[ERROR] Failed to send file to '{contact_name}': {e}", flush=True)
             return False
 
     async def close(self):
